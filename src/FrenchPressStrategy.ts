@@ -1,5 +1,3 @@
-
-// FrenchPressStrategy.ts
 import { BrewingStrategy } from './BrewingStrategy';
 
 export class FrenchPressStrategy implements BrewingStrategy {

@@ -1,5 +1,3 @@
-
-// CoffeeMaker.ts
 import { BrewingStrategy } from './BrewingStrategy';
 
 export class CoffeeMaker {

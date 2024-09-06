@@ -1,0 +1,23 @@
+{
+  "name": "brewing-better-code",
+  "version": "1.0.0",
+  "description": "Welcome to this hands-on tutorial on design patterns! In this series, we will demystify some of the most commonly used design patterns in software development through the engaging and familiar theme of coffee.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "ts-mocha 'test/**/*.test.ts'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mocha": "^10.0.7",
+    "@types/node": "^22.5.1",
+    "mocha": "^10.7.3",
+    "ts-mocha": "^10.0.0",
+    "typescript": "^5.5.4"
+  }
+}
